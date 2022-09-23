@@ -1,19 +1,25 @@
-<h1 align="center">Oi 👋, Eu sou Antonio Pereira</h1>
-<h3 align="center">Apaixonado por Data Analytics e Business Intelligence</h3>
+## Hello everyone 👋, I'm Antonio Pereira 
+### Passionate about Data and Board Games!!
 
-- 🌱 Atualmente estou aprendendo **Machine Learning**
+## About me:
+- 💻 Working with **Data Analysis**
+- 🖥 Studying **Machine Learning**
+- 💬 Ask me about **Power BI, SQL, Excel and Python.**
+- 📈 Constantly improving my **Soft** and **Hard Skills**
 
-- 💬 Me pergunte sobre **Power BI, SQL, Excel e Python.**
+## Contacts:
+ <a href = "mailto:antonio.a.pereira1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonio-pereira-13332b1a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+## Languages and Tools:
+<img align="center" alt="mssql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  <img align="center" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">  <img align="center" alt="Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">  <img align="center" alt="scikit_learn" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">  <img align="center" alt="Selenium" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
 
-- 📄 linkedin [https://www.linkedin.com/in/antonio-pereira-13332b1a5](https://www.linkedin.com/in/antonio-pereira-13332b1a5)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-pereira-13332b1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-pereira-13332b1a5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## Statistic
+<div align="center">
+  <a href="https://github.com/AntonioPereiraZz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioPereiraZz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPereiraZz&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <!---
